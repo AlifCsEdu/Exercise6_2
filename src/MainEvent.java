@@ -4,7 +4,7 @@ public class MainEvent {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
-        Event [] event = new Event[4];
+        Event [] event = new Event[6];
 
         String name;
         int guestCount;
