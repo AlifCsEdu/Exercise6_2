@@ -4,7 +4,7 @@ public class MainTailor {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        Tailor T[] = new Tailor[4];
+        Tailor T[] = new Tailor[21];
 
         String no;
         String name;
